@@ -13,3 +13,8 @@
 ## Descripcion General
 
 Implementacion CRUD (Create, Read, Update, Delete) en front end, usando Javascript-React-NodeJs
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59320487/156049610-0a612d0a-3447-4d4f-a570-5b09e3b566fa.png"
+</p>
+
